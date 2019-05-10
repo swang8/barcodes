@@ -1,4 +1,4 @@
-Number,Id,i7,i5,Well_Position_Vertical
+Number,Id,i7,i5,Well_Position_Vertical,Coordinate
  1,Barcode Adapter 1,ATCTAGCCGGCC,,1
  2,Barcode Adapter 2,TATCTCTTCCTT,,9
  3,Barcode Adapter 3,TAGATGCCGTCC,,17

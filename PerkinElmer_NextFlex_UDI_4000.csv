@@ -1,4 +1,4 @@
-Number,Id,i7,i5,Well_Position_Vertical
+Number,Id,i7,i5,Well_Position_Vertical,Coordinate
 1,NextFlex_UDI_4K_1,AATCGTTA,ACGTTATT,1
 2,NextFlex_UDI_4K_2,GTCTACAT,TTCAAGAA,9
 3,NextFlex_UDI_4K_3,CGCTGCTC,GATCTGCC,17
